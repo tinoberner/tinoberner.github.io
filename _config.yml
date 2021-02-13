@@ -17,8 +17,8 @@ avatar: /images/Logo3.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:
-  github: tinoberner/tinoberner.github.io
-  linkedin:
+#  github: tinoberner/tinoberner.github.io
+  linkedin: https://www.linkedin.com/in/tino-berner-3b5a51b9/
 
 
 

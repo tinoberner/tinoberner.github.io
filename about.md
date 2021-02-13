@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Das bin ich
+Anfang 30, mit eine paar Jahren Berufserfahrung als Unternehmensberater auf dem Buckel sieht man ungefähr so aus:
 
-<img src="{{ site.baseurl }}/images/Me.png" alt="Me" style="width: 400px;"/>
+<p style="text-align: right;"><img src="{{ site.baseurl }}/images/Me.png" alt="Me" style="width: 300px;"/></p>
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Was mache ich denn so?
+* Unternehmen beraten
+* Blogs schreiben
+* Visualisieren
 
 ### Kontaktiere mich
-
-[email@domain.com](mailto:email@domain.com)
+Am Besten auf [Linkedin](https://www.linkedin.com/in/tino-berner-3b5a51b9/) 

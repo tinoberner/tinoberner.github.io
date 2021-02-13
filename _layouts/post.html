@@ -4,13 +4,14 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  <h4>{{ page.subtitle }}</h4>
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Veröffentlicht am: {{ page.date | date: "%d.%m.%Y" }}
+    <p style="text-align: right;">Veröffentlicht am: {{ page.date | date: "%d.%m.%Y" }}</p>
   </div>
 
   {% include disqus.html %}
