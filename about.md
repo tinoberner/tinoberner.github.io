@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Anfang 30, mit eine paar Jahren Berufserfahrung als Unternehmensberater auf dem Buckel sieht man ungefähr so aus:
+Anfang 30, mit ein paar Jahren Berufserfahrung als Unternehmensberater auf dem Buckel sieht man ungefähr so aus:
 
 <p style="text-align: right;"><img src="{{ site.baseurl }}/images/Me.png" alt="Me" style="width: 300px;"/></p>
 
