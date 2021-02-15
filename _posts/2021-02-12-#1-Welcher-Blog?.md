@@ -17,7 +17,7 @@ Also doch "richtig" machen: also selber in der config rumpfuschen, Basics von HT
 
 ###### Stichwort "Static Website"
 Hier hat man auch wieder die große Auswahl .. welche Programmiersprache soll als Basis dienen? Möchte man auch viel Auswahl mit bestehenden Themes haben?
-Irgendwie ich dann über die Videos von [Mike Dane](https://www.mikedane.com/) gestolpert und habe mir angeschaut wie [JekyllRB](https://jekyllrb.com/) so funktionert.
+Irgendwie ich dann über die Videos von [Mike Dane](https://www.mikedane.com/) gestolpert und habe mir angeschaut wie [JekyllRB](https://jekyllrb.com/) so funktioniert.
 
 Und dann ist die Entscheidung gefasst: Ich mache das mit Jekyll!
 
