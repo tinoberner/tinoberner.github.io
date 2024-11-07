@@ -1,0 +1,14 @@
+---
+layout: post
+category: "Golang"
+subtitle: "Just trying something new here .."
+author: "Tino"
+---
+ .. by learning a little bit of go on the side. DAY2
+
+ Took a bit more time today than expected but I finished the second chapter of my training. What really puzzled me was the go.mod situation after I moved files around.
+ Somehow it didn't make a lot of sense for me but eventually I was able to resolve my mental lockstate with the help of ChatGPT.
+ Now I simply add .go to my prompt: go run adder - and it works.
+
+
+ 
