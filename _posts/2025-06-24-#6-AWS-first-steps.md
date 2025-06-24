@@ -13,12 +13,12 @@ Apart from watching random youtube videos about it.
 
 So with Claude (Sonnet) next to me I began to explore what it feels like to get my hands dirty on AWS.
 
-First of all: setting a goal
+First of all: setting a goal<br>
 To not only explore it theoretically I wanted it to be tangible, so I needed a project.
 This was fairly easy because asking Claude to help me out gave me a nice route that I could explore.
-So the task was to get a small react app (notetaking app) to run in AWS, touching multiple services (we come to this later).
+So the task was to get a small react app (notetaking app) to run in AWS, touching multiple services.
 
-Starting with creating an AWS account and configured the CLI (just to have more fun later in their webui ..  nyway...).
+Starting with creating an AWS account and configured the CLI (just to have more fun later in their webui ..  anyway...).
 Touching the first service already: Lambda! A quick hello world later, it was already exposed using the API Gateway.
 For the notes app I needed a table, so I ended up in DynamoDB and set up the correct IAM properties so that Lambda was able to write something in there.
 I instructed Claude to improve the UI of the notes app a little, until I was happy with the design and therefore ready to deploy it.
