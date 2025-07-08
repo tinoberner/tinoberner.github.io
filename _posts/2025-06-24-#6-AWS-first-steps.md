@@ -22,7 +22,7 @@ Starting with creating an AWS account and configured the CLI (just to have more 
 Touching the first service already: Lambda! A quick hello world later, it was already exposed using the API Gateway.
 For the notes app I needed a table, so I ended up in DynamoDB and set up the correct IAM properties so that Lambda was able to write something in there.
 I instructed Claude to improve the UI of the notes app a little, until I was happy with the design and therefore ready to deploy it.
-<p style="text-align: center;"><img src="{{ site.baseurl }}/images/postpics/aws-first-steps.png" alt="Meditation" style="width: 400px;"/></p>
+<p style="text-align: center;"><img src="{{ site.baseurl }}/images/postpics/aws-first-steps.png" alt="aws_architecture" style="width: 400px;"/></p>
 
 In between I got some automation taste by setting up Amplify so that I could just push my code from VS Code to github and this was then just grabbed
 and deployed to a S3 bucket.
