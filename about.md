@@ -7,7 +7,7 @@ permalink: /about/
 main {
     float: left;
     width: 70%;
-    height: 600px;
+    height: 700px;
     margin: 0px;
     padding: 0px;
 }
